@@ -41,7 +41,6 @@ Back-end ใช้ phpmyadmin
 
 เอกสาร React [React documentation](https://reactjs.org/).
  
-Youtube : https://youtu.be/pNHCqpgbjNA
 
 
 <!-- CONTACT -->
@@ -50,8 +49,7 @@ Youtube : https://youtu.be/pNHCqpgbjNA
 6310110300, 6310110570, 6310110637
 
 Project Link: [https://github.com/Thawatchai-204/240-311_bookweb](https://github.com/Thawatchai-204/240-311_bookweb)
-
-
+Project link YouTube : https://youtu.be/pNHCqpgbjNA
 
 [product-screenshot]: images/screenshot.png
 [Node.js]: https://img.shields.io/badge/Node.js-v.9.5.1-439950?style=for-the-badge&logo=Node.js
