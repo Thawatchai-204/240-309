@@ -40,6 +40,8 @@ Back-end ใช้ phpmyadmin
 สามารถดูเอกสารเพิ่มเติมได้ที่ [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 เอกสาร React [React documentation](https://reactjs.org/).
+ 
+Youtube : https://youtu.be/pNHCqpgbjNA
 
 
 <!-- CONTACT -->
